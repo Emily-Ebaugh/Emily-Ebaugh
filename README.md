@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Emily-Ebaugh
-- 👀 I’m interested in ... Data Analysis, Medical Research and Business
+- 👀 I’m interested in ... Data Analysis, Medical Research and Business Analytics
 - 🌱 I’m currently learning ... Data Science through the TripleTen program and I have an AA degree in Pre-nursing and a General AA.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... is by email sfcc.emily.ebaugh@gmail.com
