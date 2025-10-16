@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Emily-Ebaugh
 - 👀 I’m interested in ... Data Analysis, Medical Research and Business Analytics
-- 🌱 I’m currently learning ... Data Science through the TripleTen program and I have an AA degree in Pre-nursing and a General AA.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Data Science through the TripleTen program and I have an AA degree in Pre-nursing as well as a General AA.
+- 💞️ I’m looking to collaborate on ... Collecting, cleaning, and analyzing complex datasets, designing and deploying machine learning models, and integrating these models into production systems.
 - 📫 How to reach me ... is by email sfcc.emily.ebaugh@gmail.com
-- 😄 Pronouns: ... She
-- ⚡ Fun fact: ... I have worked in restaurants for over 10 years and am currently a general manager of a bar at the age of 29.
+- ⚡ Fun fact: ... I have worked in hospitality and sales for 14 years and recently stepped down from general management of Morty's Tap and Grille to pursue my dream of data science.
 
 <!---
 Emily-Ebaugh/Emily-Ebaugh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
